@@ -25,6 +25,8 @@
     self.view.backgroundColor = [UIColor whiteColor];
     
     
+    //ip地址查询
+    
     textfield = [[UITextField  alloc]initWithFrame:CGRectMake(50, 200, 230, 50)];
     textfield.borderStyle = UITextBorderStyleRoundedRect;
     textfield.textColor = [UIColor blackColor];
